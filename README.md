@@ -18,7 +18,7 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cs,python,dotnet,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,cs,python,dotnet,git,github,vscode&theme=dark" />
 
 </div>
 

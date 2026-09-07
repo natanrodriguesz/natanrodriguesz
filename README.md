@@ -37,7 +37,7 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [adopet](https://github.com/natanrodriguesz/adopet) | Página para adoção de pets, com foco em layout limpo e responsivo. | JavaScript, HTML, CSS (REACT) |
-| [APibiblioteca](https://github.com/natanrodriguesz/APIbiblioteca) |Consaumo de api em c# de uma biblioteca|C# |
+| [APibiblioteca](https://github.com/natanrodriguesz/APIbiblioteca) |Consumo de api em c# de uma biblioteca|C# |
 | [mendigoflix](https://github.com/natanrodriguesz/mendigoflix) | Projeto de consumo de API, integrando dados externos a uma interface dinâmica. | JavaScript, CSS |
 | [Glyzon](https://github.com/natanrodriguesz/Glyzon) |loja de hardware gamer com montagem inteligente | C# |
 | [criptopedia](https://github.com/natanrodriguesz/criptopedia) | Página informativa sobre criptomoedas. | JavaScript, HTML, CSS |

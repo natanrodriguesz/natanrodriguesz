@@ -43,7 +43,11 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 | [criptopedia](https://github.com/natanrodriguesz/criptopedia) | Página informativa sobre criptomoedas. | JavaScript, HTML, CSS |
 | [dashboardPandas](https://github.com/natanrodriguesz/dashboardPandas) | dashboard usando dados de planilhas excel para ilustrar e manipular dados. | Python |
 
-Veja todos os repositórios na aba [Repositories](https://github.com/natanrodriguesz?tab=repositories).
+
+
+
+  <img src="https://i.pinimg.com/1200x/74/3e/ed/743eedf955df6ab299a0a931a5601c2a.jpg" style="width: 1100px; height:300px;" />
+
 
 ---
 
@@ -76,3 +80,5 @@ Veja todos os repositórios na aba [Repositories](https://github.com/natanrodrig
 [![GitHub](https://img.shields.io/badge/GitHub-natanrodriguesz-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natanrodriguesz)
 
 </div>
+
+ <img src="https://i.pinimg.com/originals/1e/08/17/1e0817cebc1efa59027b03c48701e982.gif" style="width: 1100px; height:300px;" />
